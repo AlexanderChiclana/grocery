@@ -1,0 +1,2 @@
+class TjItem < ApplicationRecord
+end
