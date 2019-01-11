@@ -1,0 +1,2 @@
+class VmItem < ApplicationRecord
+end
